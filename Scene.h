@@ -26,7 +26,7 @@ public:
 	virtual void Render() = 0 {}
 	virtual void Finalize() = 0 {}
 
-	virtual void play();
+	virtual void Play();
 	virtual void Stop();
 	virtual void Show();
 	virtual void Hide();
