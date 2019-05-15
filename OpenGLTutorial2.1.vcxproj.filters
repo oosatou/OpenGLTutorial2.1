@@ -14,9 +14,36 @@
     <ClInclude Include="Scene.h">
       <Filter>Src</Filter>
     </ClInclude>
+    <ClInclude Include="TitleScene.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="StatusScene.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGameScene.h">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOverScene.h">
+      <Filter>Src</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Source.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleScene.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="MainGameScene.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="StatusScene.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOverScene.cpp">
       <Filter>Src</Filter>
     </ClCompile>
   </ItemGroup>
